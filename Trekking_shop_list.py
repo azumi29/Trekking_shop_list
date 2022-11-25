@@ -24,6 +24,7 @@ print(df_title_url)
 df_title_url.to_csv('Trekking_shop_list12.csv',encoding='shift jis', errors='ignore')
 
 
+
 # 業者のリスト
 # shop_list = []
 # h3s = search_site_list.find_all('h3')
